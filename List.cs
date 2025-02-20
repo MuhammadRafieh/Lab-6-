@@ -6,7 +6,7 @@ class Program
     static void Main()
     {
         List<string> groceries = new List<string>
-        {
+        {    "Milk Shake " 
             "Milk",
             "Eggs",
             "Bread",
